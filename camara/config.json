@@ -1,0 +1,7 @@
+{
+    "camara":  "HD 2MP WEBCAM",
+    "puerto":  8090,
+    "ancho":  1280,
+    "fps":  25,
+    "bitrate":  "2500k"
+}
